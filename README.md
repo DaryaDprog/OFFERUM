@@ -4,4 +4,5 @@
 -SCSS <br>
 -JavaScript <br>
 -Media-запросы(адаптив) <br>
+-Git <br>
 -Сборщик проекта Gulp <br>
